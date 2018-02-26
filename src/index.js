@@ -1,0 +1,15 @@
+export { clean } from './partials/clean';
+export { common } from './partials/common';
+export { definitions } from './partials/definitions';
+export { dashboard } from './partials/dashboard';
+export { html } from './partials/html';
+export { htmlFile } from './partials/html-file';
+export { raw } from './partials/raw';
+export { scripts } from './partials/scripts';
+export { stats } from './partials/stats';
+export { styles } from './partials/styles';
+export { svg } from './partials/svg';
+export { file } from './partials/file';
+export { conditional } from './partials/conditional';
+export { copy } from './partials/copy';
+export { hotModuleReplacement } from './partials/hot-module-replacement';
